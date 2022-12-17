@@ -1,0 +1,4 @@
+/content/cvd2/lib/build/CMakeFiles/lib_cvd.dir
+/content/cvd2/lib/build/CMakeFiles/lib_python.dir
+/content/cvd2/lib/build/CMakeFiles/edit_cache.dir
+/content/cvd2/lib/build/CMakeFiles/rebuild_cache.dir
